@@ -1,14 +1,14 @@
 theme: jekyll-theme-cayman
 title: My Research
-show_downloads: false
+show_downloads: true
 color:
   header: "#FFFFFF"
   gradient_left: "#34e89e"
   gradient_right: "#0f3443"
 buttons:
-      zip_url: https://github.com/Ziqian-xia/Ziqian-xia.github.io/blob/gh-pages/CV-Ziqian.pdf
-      zip_title: CV
-      zip_hide: true
+      zip_url: https://Ziqian-xia.github.io
+      zip_title: Back to Homepage
+      zip_hide: false
       tar_url: http://example.com/
       tar_title: Latest Talk
       tar_hide: true
