@@ -3,8 +3,8 @@ title: My Research
 show_downloads: false
 color:
   header: "#FFFFFF"
-  gradient_left: "#007991"
-  gradient_right: "#78ffd6"
+  gradient_left: "#34e89e"
+  gradient_right: "#0f3443"
 buttons:
       zip_url: https://github.com/Ziqian-xia/Ziqian-xia.github.io/blob/gh-pages/CV-Ziqian.pdf
       zip_title: CV
