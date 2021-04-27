@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-remote_theme: tuur29/pages-themes-cayman
 title: My Research
 show_downloads: false
 color:
@@ -17,5 +16,5 @@ buttons:
 plugins:
   - jekyll-relative-links
 relative_links:
-  enabled: true
-  collections: true
+  enabled: false
+  collections: false
